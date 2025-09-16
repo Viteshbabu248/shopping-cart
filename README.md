@@ -1,12 +1,11 @@
-<<<<<<< HEAD
+
 # shopping-cart
-repo created
 =======
 # E-Shop Website (Front-end-Project)
 <p align="center">
   <p align="center">
     <a href="https://webprojectcs3.000webhostapp.com/index.html" target="_blank">
-      <img src="https://webprojectcs3.000webhostapp.com/img/logo.svg" alt="JustDjango" height="120">
+      
     </a>
   </p>
   <p align="center">
@@ -22,9 +21,6 @@ Beautiful responsive ecommerce (fornt-end-master) website built with (`html` & `
 <div align="center">
 <p align="center"> Version: 1.0<br> publish Date ->(25/12/2022)</p>
   
-# Devolpers
-
-<p align="center"> Made with ❤ by: <br>{<a href="https://www.linkedin.com/in/ali-nour-3309581b9/">Ali Nour</a> -<a href="https://www.linkedin.com/in/omar-zahrah-0021941a8/">Omar Zahra</a> -<a href="https://www.linkedin.com/in/saramohamedean/">Sara Mohamed</a> -<a href="https://www.linkedin.com/in/sama-ayman-830926233/">Sama Ayman</a> -<a href="https://www.linkedin.com/in/mazen-mohamed-9a0b88240">Mazen Mohamed</a> -<a href="https://www.linkedin.com/in/noran-sherif-7282a2235/">Noran Sherif</a> -<a href="https://www.linkedin.com/in/nadaa-ayoub-a5954a246/">Nada Ayoub</a> -<a href="https://www.linkedin.com/in/fatma-afify-76b4a6214">Fatma Afify</a> -<a href="https://www.linkedin.com/in/karem-abdelfatah-b70515248/">Karem Abdelfatah</a> -<a href="https://www.linkedin.com/in/vero-wageh-2392a8226">Veronica Wageh</a> -<a href="https://www.linkedin.com/in/fady-undefined-74a6a825b">Fady Kamel</a>  }</p>
 </div>
 
 
@@ -35,17 +31,7 @@ Beautiful responsive ecommerce (fornt-end-master) website built with (`html` & `
 
 # Take a look at the program's appearance
 
-<h2>Appearance on mobile</h2> 
-<img src="https://user-images.githubusercontent.com/74410154/209476503-88b3a582-41ac-4e5a-989f-9370bf1dae1e.png">
-<a href="https://webprojectcs3.000webhostapp.com/"><strong>➥ Live Demo</strong></a>
 <h2>Appearance on desktop</h2> 
 <img src="https://user-images.githubusercontent.com/74410154/209476950-0b0dbe3f-2aaa-4583-af4f-7333100c6f86.png">
-<a href="https://webprojectcs3.000webhostapp.com/"><strong>➥ Live Demo</strong></a>
+<a href="https://shopping-cart-exu.pages.dev/"><strong>➥ Live Demo</strong></a>
 
-## License
-
-This software is licensed under the MIT License © [AliNour](https://github.com/alin00r)
-
-
->>>>>>> 2b645fd (folder added commit done)
-# shopping-cart
